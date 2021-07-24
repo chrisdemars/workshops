@@ -1,0 +1,117 @@
+html {
+    box-sizing: border-box;
+    min-height: 100%;
+    font-family: 'Roboto', sans-serif;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+    margin: 0;
+    padding: 0;
+}
+
+.instructions {
+    background-color: rgb(152, 211, 43);
+    padding: 2em;
+    margin-bottom: 2em;
+}
+
+code {
+    background-color: #999;
+    padding: 0.3em 0.5em;
+    border-radius: 0.5em;
+}
+
+.instructions h1,
+.instructions h2 {
+    text-align: left;
+    margin-bottom: 0;
+    font-size: 2em;
+}
+
+.instructions h2 {
+    margin-top: .5em;
+}
+
+h1,
+h2{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 5em;
+}
+
+h2 {
+    font-size: 4em;
+    color: #000000;
+}
+
+body {
+	background-color: #00eacb;
+}
+
+.flex-wrapper {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: .5em;
+    font-size: 5em;
+    color: #000;
+}
+
+form div {
+	margin-bottom: 10px;
+}
+
+form {
+  margin: 0 auto;
+  width: 400px;
+  padding: 1em;
+  box-shadow: 0 5px 25px 0 rgba(0,0,0,.25);
+  background-color: pink;
+}
+
+label {
+  display: inline-block;
+  width: 90px;
+  text-align: right;
+  font-size: 1.1em;
+}
+
+input, 
+textarea {
+  font: 1em sans-serif;
+  box-sizing: border-box;
+  border: 1px solid #999;
+}
+
+textarea {
+  vertical-align: top;
+  height: 5em;
+}
+
+.button {
+  padding-left: 90px;
+}
+
+button {
+    font-size: 1.2em;
+    margin-left: .5em;
+    background-color: transparent;
+    border: 1px solid black;
+    padding: .5em;
+}
+
+:focus {
+    outline: none;
+}

@@ -1,0 +1,70 @@
+html {
+    box-sizing: border-box;
+    min-height: 100%;
+    font-family: 'Roboto', sans-serif;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+    margin: 0;
+    padding: 0;
+}
+
+.instructions {
+    background-color: rgb(152, 211, 43);
+    padding: 2em;
+    margin-bottom: 2em;
+}
+
+code {
+    background-color: #999;
+    padding: 0.3em 0.5em;
+    border-radius: 0.5em;
+}
+
+.instructions h1 {
+    margin-bottom: 0;
+    font-size: 2em;
+    text-align: left;
+}
+
+h1,
+h2{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 5em;
+}
+
+h2 {
+    font-size: 4em;
+    color: #000000;
+}
+
+body {
+	background-color: #00eacb;
+}
+
+.flex-wrapper {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+}
+
+.icon-wrapper {
+    margin-top: 2em;
+}
+
+.icon-wrapper span {
+    margin-right: 20px;
+}
+
+.fab {
+    color: black;
+}
