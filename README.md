@@ -1,3 +1,2 @@
-# 
-Rea11y Simple A11y: A Focused Accessibility Workshop
+# Rea11y Simple A11y: A Focused Accessibility Workshop
 
