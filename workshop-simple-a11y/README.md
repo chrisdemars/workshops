@@ -12,8 +12,6 @@ Accessibility on the web is increasing in visibility, yet some web creators are 
 
 **If you don't want to install live-server, you can run a server in the terminal with the command below:**
 
-http-server
-
 `npx http-server`
 
 If prompted to install via npm, just go for it.
