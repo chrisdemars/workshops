@@ -2,7 +2,7 @@
 
 Accessibility on the web is increasing in visibility, yet some web creators are still unfamiliar with how to create an amazing, accessible user experience. Spoiler alert, it starts with design, but what happens after that? In this workshop, I will walk the attendees through a site that has multiple violations, and a low score in Lighthouse. I will also touch on aXe Core, what it is, and how to use it. After we comb through the site, I will introduce easy wins like semantic markup, alt attributes, and ARIA labels to remove all violations. You'll walk away with the knowledge to build your sites with accessibility in mind.
 
-## Steps
+## Setup
 - Download the axe browser extension from any of the below links based on the browser you use
   - https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd
   - https://addons.mozilla.org/en-US/firefox/addon/axe-devtools/
